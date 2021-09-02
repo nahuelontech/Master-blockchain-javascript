@@ -59,3 +59,4 @@ contract DappToken {
         return true;
     }
 }
+//This code template is from https://www.dappuniversity.com/articles/code-your-own-cryptocurrency-on-ethereum
