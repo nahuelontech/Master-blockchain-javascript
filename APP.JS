@@ -1,6 +1,5 @@
 //HOW TO USE WEB3.JS? Habalremos de como hablar con el smart contract con javascript.
-//First u need node -v (enviroment) cmd-> node -v
-//And second u need web3.js libary cmd-> npm install web3
+//First u need node -v (enviroment) cmd-> node -v   //And second u need web3.js libary cmd-> npm install web3
 //Having done so , we are gonna open de node console. cmd -> node
 //and we will require the web3 library cmd -> var Web3 = require('web3')
 //and we need to get an instance from web 3; cmd-> var web3 = new Web3('copy eth address,so u can connect with the eth net : https://mainnet.infura.io/dckemdcoekmcececec inventado')
